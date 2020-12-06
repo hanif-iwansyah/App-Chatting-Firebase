@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppChatFirebase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add">ADD</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_account">Already have account !!!</string>
+    <string name="login">Login</string>
+    <string name="not_have_an_account">Not have an account !!!</string>
+</resources>
